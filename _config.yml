@@ -1,0 +1,30 @@
+url: "http://bordeaux.afup.org"
+
+title: "AFUP Bordeaux"
+description: >-
+  Antenne AFUP sur Bordeaux
+twitter_username: AFUP_Bordeaux
+meetup_url: "https://www.meetup.com/fr-FR/Bordeaux-PHP-Meetup/?_locale=fr-FR"
+
+permalink: /posts/:title
+
+ga_ua: ""
+home_featured_articles_count: 1
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+   - Makefile
+   - docker-compose.yml
+   - docker-compose.override.yml-dist
+   - docker-compose.override.yml
+   - Gemfile
+   - Gemfile.lock
+
+feed:
+  path: feed
+
