@@ -4,7 +4,7 @@ title: Soirée PHP exceptionnelle à Bordeaux le 4 Juin
 date: 2012-05-23T09:41:01+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=29
+guid: /archives/?p=29
 permalink: /2012/05/23/soiree-php-exceptionnelle-a-bordeaux-le-4-juin/
 categories:
   - Actualité

@@ -4,7 +4,7 @@ title: 'Rencontre le 9 mars : apéro PHP'
 date: 2011-03-09T10:14:09+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=83
+guid: /archives/?p=83
 permalink: /2011/03/09/rencontre-le-9-mars-apero-php/
 categories:
   - Actualité
@@ -18,5 +18,5 @@ categories:
 </div>
 
 <div>
-  Cette rencontre sera aussi l&rsquo;occasion de définir un vrai sujet pour avril, car nous espérons avoir de véritables <a href="http://bordeaux.afup.org/2018/07/28/avant-dacheter-un-jeu-electronique-vous-devez-en-savoir-un-peu-plus-sur-lempire-des-huit-minutes/">locaux</a> d&rsquo;ici là. Si d&rsquo;ici là vous avez des idées n&rsquo;hésites pas à les noter <a href="http://www.google.com/url?sa=D&q=http://www.google.com/url%3Fsa%3DD%26q%3Dhttps://spreadsheets.google.com/ccc%253Fkey%253D0Aq29o5TOMI_LdC1mRnVqOUFyc2t6aTQ0S2w5VWtoQXc%2526hl%253Den">sur le document dédié</a>.
+  Cette rencontre sera aussi l&rsquo;occasion de définir un vrai sujet pour avril, car nous espérons avoir de véritables <a href="/archives/2018/07/28/avant-dacheter-un-jeu-electronique-vous-devez-en-savoir-un-peu-plus-sur-lempire-des-huit-minutes/">locaux</a> d&rsquo;ici là. Si d&rsquo;ici là vous avez des idées n&rsquo;hésites pas à les noter <a href="http://www.google.com/url?sa=D&q=http://www.google.com/url%3Fsa%3DD%26q%3Dhttps://spreadsheets.google.com/ccc%253Fkey%253D0Aq29o5TOMI_LdC1mRnVqOUFyc2t6aTQ0S2w5VWtoQXc%2526hl%253Den">sur le document dédié</a>.
 </div>

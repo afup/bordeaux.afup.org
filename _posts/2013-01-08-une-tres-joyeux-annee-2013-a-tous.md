@@ -4,7 +4,7 @@ title: Une très joyeux année 2013 !
 date: 2013-01-08T16:36:36+00:00
 author: communication
 layout: post
-guid: http://bordeaux.afup.org/?p=162
+guid: /archives/?p=162
 permalink: /2013/01/08/une-tres-joyeux-annee-2013-a-tous/
 categories:
   - Actualité

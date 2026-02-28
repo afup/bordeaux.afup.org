@@ -4,7 +4,7 @@ title: Nginx ou Apache avec PHP, le débrief !
 date: 2013-06-05T09:15:19+00:00
 author: julien
 layout: post
-guid: http://bordeaux.afup.org/?p=176
+guid: /archives/?p=176
 permalink: /2013/06/05/nginx-ou-apache-avec-php-le-debrief/
 categories:
   - Actualité
@@ -25,7 +25,7 @@ categories:
 </div>
 
 <div>
-  Les slides de la présentation sont disponibles <a href="http://bordeaux.afup.org/files/2013/06/NginxVsApache.pdf">ici</a>. La conclusion à été rédigée en séance à l&rsquo;issue d&rsquo;une série de questions/réponses assez passionnante et passionnée.
+  Les slides de la présentation sont disponibles <a href="/archives/files/2013/06/NginxVsApache.pdf">ici</a>. La conclusion à été rédigée en séance à l&rsquo;issue d&rsquo;une série de questions/réponses assez passionnante et passionnée.
 </div>
 
 <div>

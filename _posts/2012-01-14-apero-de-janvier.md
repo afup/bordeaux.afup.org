@@ -4,7 +4,7 @@ title: Apéro de janvier
 date: 2012-01-14T10:04:30+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=55
+guid: /archives/?p=55
 permalink: /2012/01/14/apero-de-janvier/
 categories:
   - Actualité

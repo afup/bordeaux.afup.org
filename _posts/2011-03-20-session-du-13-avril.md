@@ -4,7 +4,7 @@ title: Session du 13 avril
 date: 2011-03-20T10:13:21+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=80
+guid: /archives/?p=80
 permalink: /2011/03/20/session-du-13-avril/
 categories:
   - Actualité
@@ -25,7 +25,7 @@ Les conventions de l&rsquo;équipe s&rsquo;étant stabilisées, à chaque nouvel
 
 Au bout de 6 mois, on prévoit d&rsquo;intégrer 5 développeurs d&rsquo;un coup, il est nécessaire de simplifier et documenter le processus d&rsquo;installation du poste de développeur pour accélérer l&rsquo;intégration des nouveaux, comment faire ?
 
-Au bout d&rsquo;un an, l&rsquo;équipe d&rsquo;une dizaine de développeurs choisi de faire évoluer la version du framework technique open source qui est [utilisé](http://bordeaux.afup.org/2018/07/28/avant-dacheter-un-jeu-electronique-vous-devez-en-savoir-un-peu-plus-sur-lempire-des-huit-minutes/) sur le projet, cela va chambouler toutes leurs pratiques (arborescence, commandes en lignes &#8230;), comment bénéficier de ce qui a été capitalisé (exécution des tests unitaires, génération des rapports, génération de code&#8230;) ?&nbsp;&raquo;
+Au bout d&rsquo;un an, l&rsquo;équipe d&rsquo;une dizaine de développeurs choisi de faire évoluer la version du framework technique open source qui est [utilisé](/archives/2018/07/28/avant-dacheter-un-jeu-electronique-vous-devez-en-savoir-un-peu-plus-sur-lempire-des-huit-minutes/) sur le projet, cela va chambouler toutes leurs pratiques (arborescence, commandes en lignes &#8230;), comment bénéficier de ce qui a été capitalisé (exécution des tests unitaires, génération des rapports, génération de code&#8230;) ?&nbsp;&raquo;
 
 Si comme Eric, Fabien, Christophe, Tarik et les autres, vous avez besoin de vraies réponses à ces problématiques, l&rsquo;outil en ligne de commande &laquo;&nbsp;PM&nbsp;&raquo; (Project Manager) est peut être fait pour vous !
 

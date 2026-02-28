@@ -4,7 +4,7 @@ title: Support de Présentation Drupal du 22/09
 date: 2011-10-05T10:06:41+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=61
+guid: /archives/?p=61
 permalink: /2011/10/05/support-de-presentation-drupal-du-2209/
 categories:
   - Actualité

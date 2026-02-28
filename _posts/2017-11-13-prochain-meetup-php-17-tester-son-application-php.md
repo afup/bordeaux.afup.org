@@ -4,10 +4,10 @@ title: 'Prochain Meetup PHP #17 : Tester son application PHP'
 date: 2017-11-13T19:48:27+00:00
 author: nicolas
 layout: post
-guid: http://bordeaux.afup.org/?p=211
+guid: /archives/?p=211
 permalink: /2017/11/13/prochain-meetup-php-17-tester-son-application-php/
 ---
-[<img class="alignnone size-full wp-image-212" src="http://bordeaux.afup.org/files/2017/11/meetup_3.jpeg" alt="" width="800" height="400" srcset="https://bordeaux.afup.org/files/2017/11/meetup_3.jpeg 800w, https://bordeaux.afup.org/files/2017/11/meetup_3-300x150.jpeg 300w, https://bordeaux.afup.org/files/2017/11/meetup_3-768x384.jpeg 768w, https://bordeaux.afup.org/files/2017/11/meetup_3-500x250.jpeg 500w" sizes="(max-width: 800px) 100vw, 800px" />](http://bordeaux.afup.org/files/2017/11/meetup_3.jpeg)
+[<img class="alignnone size-full wp-image-212" src="/archives/files/2017/11/meetup_3.jpeg" alt="" width="800" height="400" srcset="/archives/files/2017/11/meetup_3.jpeg 800w, /archives/files/2017/11/meetup_3-300x150.jpeg 300w, /archives/files/2017/11/meetup_3-768x384.jpeg 768w, /archives/files/2017/11/meetup_3-500x250.jpeg 500w" sizes="(max-width: 800px) 100vw, 800px" />](/archives/files/2017/11/meetup_3.jpeg)
 
 Ce prochain Meetup s&rsquo;organisera autour de 3 talks de 20 minutes traitant d&rsquo;un sujet commun : le &laquo;&nbsp;testing&nbsp;&raquo; de son application PHP. **  
 ** 

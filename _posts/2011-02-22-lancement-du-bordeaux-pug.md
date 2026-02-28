@@ -4,7 +4,7 @@ title: Lancement du Bordeaux PUG !
 date: 2011-02-22T10:14:57+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=86
+guid: /archives/?p=86
 permalink: /2011/02/22/lancement-du-bordeaux-pug/
 categories:
   - Actualité

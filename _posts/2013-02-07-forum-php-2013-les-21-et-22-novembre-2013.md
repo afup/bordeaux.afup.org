@@ -4,7 +4,7 @@ title: Forum PHP 2013, les 21 et 22 novembre 2013
 date: 2013-02-07T17:21:29+00:00
 author: communication
 layout: post
-guid: http://bordeaux.afup.org/?p=171
+guid: /archives/?p=171
 permalink: /2013/02/07/forum-php-2013-les-21-et-22-novembre-2013/
 ---
 Le plus important cycle international de conférences dédié au langage et à son écosystème en France, **le Forum PHP, se tiendra les jeudi 21 et vendredi 22 novembre 2013, à Montrouge au sein du Beffroi**, aux portes de Paris.

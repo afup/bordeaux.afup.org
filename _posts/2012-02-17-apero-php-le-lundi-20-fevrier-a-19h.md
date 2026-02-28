@@ -4,7 +4,7 @@ title: Apéro PHP le lundi 20 Février à 19h
 date: 2012-02-17T09:52:41+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=47
+guid: /archives/?p=47
 permalink: /2012/02/17/apero-php-le-lundi-20-fevrier-a-19h/
 categories:
   - Actualité

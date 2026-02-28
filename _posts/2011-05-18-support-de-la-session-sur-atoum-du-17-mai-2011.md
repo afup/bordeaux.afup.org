@@ -4,7 +4,7 @@ title: Support de la session sur Atoum du 17 Mai 2011
 date: 2011-05-18T10:09:11+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=70
+guid: /archives/?p=70
 permalink: /2011/05/18/support-de-la-session-sur-atoum-du-17-mai-2011/
 categories:
   - Actualité

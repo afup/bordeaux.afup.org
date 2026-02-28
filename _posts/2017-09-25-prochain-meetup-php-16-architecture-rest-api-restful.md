@@ -4,13 +4,13 @@ title: 'Prochain Meetup PHP #16 : Architecture REST &amp; API RESTful'
 date: 2017-09-25T10:45:25+00:00
 author: nicolas
 layout: post
-guid: http://bordeaux.afup.org/?p=203
+guid: /archives/?p=203
 permalink: /2017/09/25/prochain-meetup-php-16-architecture-rest-api-restful/
 categories:
   - Actualité
   - Conférence
 ---
-[<img class="alignnone size-full wp-image-204" src="http://bordeaux.afup.org/files/2017/07/meetup-php-afup-16.png" alt="" width="800" height="400" srcset="https://bordeaux.afup.org/files/2017/07/meetup-php-afup-16.png 800w, https://bordeaux.afup.org/files/2017/07/meetup-php-afup-16-300x150.png 300w, https://bordeaux.afup.org/files/2017/07/meetup-php-afup-16-768x384.png 768w, https://bordeaux.afup.org/files/2017/07/meetup-php-afup-16-500x250.png 500w" sizes="(max-width: 800px) 100vw, 800px" />](http://bordeaux.afup.org/files/2017/07/meetup-php-afup-16.png)
+[<img class="alignnone size-full wp-image-204" src="/archives/files/2017/07/meetup-php-afup-16.png" alt="" width="800" height="400" srcset="/archives/files/2017/07/meetup-php-afup-16.png 800w, /archives/files/2017/07/meetup-php-afup-16-300x150.png 300w, /archives/files/2017/07/meetup-php-afup-16-768x384.png 768w, /archives/files/2017/07/meetup-php-afup-16-500x250.png 500w" sizes="(max-width: 800px) 100vw, 800px" />](/archives/files/2017/07/meetup-php-afup-16.png)
 
 Bonjour à tous,
 
@@ -39,7 +39,7 @@ Le meetup se termine par un apéro collaboratif &#8211; pensez à ramener un pet
 
 **A propos de Nicolas PERUSSEL ([@mamoot64](https://twitter.com/mamoot64)) :**
 
-[<img class="alignleft wp-image-205" src="http://bordeaux.afup.org/files/2017/09/718iNM0__400x400.jpg" alt="" width="95" height="95" srcset="https://bordeaux.afup.org/files/2017/09/718iNM0__400x400.jpg 400w, https://bordeaux.afup.org/files/2017/09/718iNM0__400x400-150x150.jpg 150w, https://bordeaux.afup.org/files/2017/09/718iNM0__400x400-300x300.jpg 300w" sizes="(max-width: 95px) 100vw, 95px" />](http://bordeaux.afup.org/files/2017/09/718iNM0__400x400.jpg)Passionné par les nouvelles technologies, je suis féru d&rsquo;architecture logicielle. Acteur multimédia, ma spécialité : le développement web.  
+[<img class="alignleft wp-image-205" src="/archives/files/2017/09/718iNM0__400x400.jpg" alt="" width="95" height="95" srcset="/archives/files/2017/09/718iNM0__400x400.jpg 400w, /archives/files/2017/09/718iNM0__400x400-150x150.jpg 150w, /archives/files/2017/09/718iNM0__400x400-300x300.jpg 300w" sizes="(max-width: 95px) 100vw, 95px" />](/archives/files/2017/09/718iNM0__400x400.jpg)Passionné par les nouvelles technologies, je suis féru d&rsquo;architecture logicielle. Acteur multimédia, ma spécialité : le développement web.  
 « Accro au technos », j’aime me diversifier dans divers domaines pour être toujours plus efficace et compétent.
 
 Après plus de 12 années avec PHP lié au framework Symfony (je suis fan et évangéliste), j&rsquo;ai intégré OAB (Orange Application for Business) en quête de nouveaux défis. Ça change, c&rsquo;est bien et ça m&rsquo;ouvre l&rsquo;esprit (et ça me repose) !

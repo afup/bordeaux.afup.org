@@ -4,7 +4,7 @@ title: Apéro PHP mardi 20 décembre
 date: 2011-12-18T10:05:22+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=58
+guid: /archives/?p=58
 permalink: /2011/12/18/apero-php-mardi-20-decembre/
 categories:
   - Actualité

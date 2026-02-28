@@ -4,7 +4,7 @@ title: Apéro PHP lundi 20 juin
 date: 2011-06-19T10:08:27+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=67
+guid: /archives/?p=67
 permalink: /2011/06/19/apero-php-lundi-20-juin/
 categories:
   - Actualité

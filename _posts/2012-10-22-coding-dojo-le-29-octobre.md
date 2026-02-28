@@ -4,7 +4,7 @@ title: coding dojo le 29 Octobre
 date: 2012-10-22T13:18:31+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=138
+guid: /archives/?p=138
 permalink: /2012/10/22/coding-dojo-le-29-octobre/
 categories:
   - Actualité

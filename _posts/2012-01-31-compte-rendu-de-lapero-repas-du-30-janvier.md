@@ -4,7 +4,7 @@ title: 'Compte rendu de l&rsquo;apéro / repas du 30 Janvier'
 date: 2012-01-31T10:02:23+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=50
+guid: /archives/?p=50
 permalink: /2012/01/31/compte-rendu-de-lapero-repas-du-30-janvier/
 categories:
   - Actualité

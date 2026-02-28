@@ -4,7 +4,7 @@ title: Coding Dojo PHP à Bordeaux le 4 Juillet
 date: 2012-06-22T09:37:54+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=23
+guid: /archives/?p=23
 permalink: /2012/06/22/coding-dojo-php-a-bordeaux-le-4-juillet/
 categories:
   - Actualité

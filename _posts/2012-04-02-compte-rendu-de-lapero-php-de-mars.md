@@ -4,7 +4,7 @@ title: 'Compte rendu de l&rsquo;apéro PHP de Mars'
 date: 2012-04-02T09:42:22+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=32
+guid: /archives/?p=32
 permalink: /2012/04/02/compte-rendu-de-lapero-php-de-mars/
 ---
 Jeudi dernier s&rsquo;est tenu un apéro/diner PHP sur la terrasse du restaurant &laquo;&nbsp;A la cantine&nbsp;&raquo; dans le quartier des Chartrons à Bordeaux.

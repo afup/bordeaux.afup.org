@@ -4,7 +4,7 @@ title: 'L&rsquo;assemblée générale est proche, donnez votre avis !'
 date: 2013-01-22T16:11:52+00:00
 author: communication
 layout: post
-guid: http://bordeaux.afup.org/?p=167
+guid: /archives/?p=167
 permalink: /2013/01/22/lassemblee-generale-est-proche-donnez-votre-avis/
 categories:
   - Actualité

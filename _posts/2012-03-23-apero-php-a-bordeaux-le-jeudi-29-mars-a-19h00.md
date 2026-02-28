@@ -4,7 +4,7 @@ title: Apéro PHP à Bordeaux le jeudi 29 Mars à 19h00
 date: 2012-03-23T09:49:35+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=41
+guid: /archives/?p=41
 permalink: /2012/03/23/apero-php-a-bordeaux-le-jeudi-29-mars-a-19h00/
 categories:
   - Actualité

@@ -4,7 +4,7 @@ title: Annulation du dojo du 29 Octobre
 date: 2012-10-29T13:21:44+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=142
+guid: /archives/?p=142
 permalink: /2012/10/29/annulation-du-dojo-du-29-octobre/
 categories:
   - Actualité

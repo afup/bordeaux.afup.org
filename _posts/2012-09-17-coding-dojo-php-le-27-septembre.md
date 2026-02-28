@@ -4,7 +4,7 @@ title: Coding Dojo PHP le 27 septembre
 date: 2012-09-17T14:38:36+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=91
+guid: /archives/?p=91
 permalink: /2012/09/17/coding-dojo-php-le-27-septembre/
 categories:
   - Actualité

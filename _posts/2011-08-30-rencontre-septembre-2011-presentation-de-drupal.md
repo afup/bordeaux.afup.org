@@ -4,7 +4,7 @@ title: 'Rencontre Septembre 2011 : Présentation de Drupal'
 date: 2011-08-30T10:07:37+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=64
+guid: /archives/?p=64
 permalink: /2011/08/30/rencontre-septembre-2011-presentation-de-drupal/
 categories:
   - Actualité

@@ -4,7 +4,7 @@ title: Le PHP Tour Nantes 2012 est proche
 date: 2012-11-21T17:03:24+00:00
 author: communication
 layout: post
-guid: http://bordeaux.afup.org/?p=146
+guid: /archives/?p=146
 permalink: /2012/11/21/le-php-tour-nantes-2012-est-proche/
 ---
 A quelques jours du PHP Tour Nantes 2012, il est encore temps de se décider à parcourir les 330 km qui séparent Bordeaux et Nantes. Non seulement [il reste des places](http://afup.org/pages/phptournantes2012/inscription.php) pour le cycle de conférences, mais l&rsquo;AFUP facilite également la venue de ses visiteurs.

@@ -4,13 +4,13 @@ title: 'Prochain Meetup PHP #15 : Le passé doit mourir, migrer vers PHP 7.2'
 date: 2017-07-26T07:38:43+00:00
 author: nicolas
 layout: post
-guid: http://bordeaux.afup.org/?p=191
+guid: /archives/?p=191
 permalink: /2017/07/26/prochain-meetup-php-15-le-passe-doit-mourir-migrer-vers-php-7-2/
 categories:
   - Actualité
   - Conférence
 ---
-[<img class="alignnone size-full wp-image-192" src="http://bordeaux.afup.org/files/2017/07/meetup-php.png" alt="" width="800" height="400" srcset="https://bordeaux.afup.org/files/2017/07/meetup-php.png 800w, https://bordeaux.afup.org/files/2017/07/meetup-php-300x150.png 300w, https://bordeaux.afup.org/files/2017/07/meetup-php-768x384.png 768w, https://bordeaux.afup.org/files/2017/07/meetup-php-500x250.png 500w" sizes="(max-width: 800px) 100vw, 800px" />](http://bordeaux.afup.org/files/2017/07/meetup-php.png)
+[<img class="alignnone size-full wp-image-192" src="/archives/files/2017/07/meetup-php.png" alt="" width="800" height="400" srcset="/archives/files/2017/07/meetup-php.png 800w, /archives/files/2017/07/meetup-php-300x150.png 300w, /archives/files/2017/07/meetup-php-768x384.png 768w, /archives/files/2017/07/meetup-php-500x250.png 500w" sizes="(max-width: 800px) 100vw, 800px" />](/archives/files/2017/07/meetup-php.png)
 
 Bonjour à tous,
 
@@ -43,6 +43,6 @@ Pensez à amener des boissons et/ou des petits trucs à manger&#8230;
 
 **A propos de Damien SEGUY (<a href="https://twitter.com/faguo?lang=fr" target="_blank" rel="noopener noreferrer">@faguo</a>) :**
 
-[<img class=" wp-image-195 alignleft" src="http://bordeaux.afup.org/files/2017/07/h-bIUVLF-150x150.jpeg" alt="" width="100" height="100" srcset="https://bordeaux.afup.org/files/2017/07/h-bIUVLF-150x150.jpeg 150w, https://bordeaux.afup.org/files/2017/07/h-bIUVLF.jpeg 250w" sizes="(max-width: 100px) 100vw, 100px" />](http://bordeaux.afup.org/files/2017/07/h-bIUVLF.jpeg)Damien Seguy est directeur technique chez <a href="https://www.exakat.io/" target="_blank" rel="noopener noreferrer">Exakat Ltd</a>., société spécialisée dans les solutions pour la qualité du code source en PHP. Il dirige le développement du moteur d&rsquo;analyse statique d&rsquo;<a href="https://www.exakat.io/" target="_blank" rel="noopener noreferrer">Exakat</a>, qui assure la revue de code pour les migrations, la clarté et la sécurité. Avec plus de quinze ans de contributions au monde PHP, son expérience l&rsquo;a fait passer par la rédaction de la documentation, l&rsquo;élevage d’éléphants, l&rsquo;animation de groupes d&rsquo;utilisateurs sur trois continents. Il aime faire du gremlin, des 狮子头 et du camembert.
+[<img class=" wp-image-195 alignleft" src="/archives/files/2017/07/h-bIUVLF-150x150.jpeg" alt="" width="100" height="100" srcset="/archives/files/2017/07/h-bIUVLF-150x150.jpeg 150w, /archives/files/2017/07/h-bIUVLF.jpeg 250w" sizes="(max-width: 100px) 100vw, 100px" />](/archives/files/2017/07/h-bIUVLF.jpeg)Damien Seguy est directeur technique chez <a href="https://www.exakat.io/" target="_blank" rel="noopener noreferrer">Exakat Ltd</a>., société spécialisée dans les solutions pour la qualité du code source en PHP. Il dirige le développement du moteur d&rsquo;analyse statique d&rsquo;<a href="https://www.exakat.io/" target="_blank" rel="noopener noreferrer">Exakat</a>, qui assure la revue de code pour les migrations, la clarté et la sécurité. Avec plus de quinze ans de contributions au monde PHP, son expérience l&rsquo;a fait passer par la rédaction de la documentation, l&rsquo;élevage d’éléphants, l&rsquo;animation de groupes d&rsquo;utilisateurs sur trois continents. Il aime faire du gremlin, des 狮子头 et du camembert.
 
 &nbsp;

@@ -4,7 +4,7 @@ title: 'Compte rendu de l&rsquo;apéro de lundi'
 date: 2012-02-22T09:50:47+00:00
 author: romain
 layout: post
-guid: http://bordeaux.afup.org/?p=44
+guid: /archives/?p=44
 permalink: /2012/02/22/compte-rendu-de-lapero-de-lundi/
 categories:
   - Actualité
